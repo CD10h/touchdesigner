@@ -7,3 +7,4 @@ toe/yolov8s.pt
 toe/yolov8x-seg.pt
 toe/yolov8x.pt
 other/instance-segmentation.avi
+yolov8x-seg.pt
