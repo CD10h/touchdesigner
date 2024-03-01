@@ -115,8 +115,8 @@
   "47": {
     "inputs": {
       "add_noise": "enable",
-      "noise_seed": 0,
-      "steps": 20,
+      "noise_seed": 1109830152706209,
+      "steps": 4,
       "cfg": 8,
       "sampler_name": "euler",
       "scheduler": "normal",
@@ -147,7 +147,7 @@
   },
   "48": {
     "inputs": {
-      "ckpt_name": "anyorangemixAnything_5453A1B3A3.safetensors"
+      "ckpt_name": "sdxl_lightning_4step.safetensors"
     },
     "class_type": "CheckpointLoaderSimple",
     "_meta": {
